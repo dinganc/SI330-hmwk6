@@ -1,0 +1,601 @@
+	Nationality	Pick	Player	Position	Round	School/club team	Team	outcome
+0	United States	1	Fultz, Markelle	PG/SG	1	Washington 	Philadelphia 76ers (from Brooklyn via Boston)[A][B]	medium
+1	United States	2	Ball, Lonzo	PG	1	UCLA 	Los Angeles Lakers	medium
+2	United States	3	Tatum, Jayson	SF	1	Duke 	Boston Celtics (from Sacramento via Philadelphia)[C][B]	medium
+3	United States	4	Jackson, Josh	SF	1	Kansas 	Phoenix Suns	medium
+4	United States	5	Fox, De'Aaron	PG	1	Kentucky 	Sacramento Kings (from Philadelphia)[C]	medium
+5	United States	6	Isaac, Jonathan	SF/PF	1	Florida State 	Orlando Magic	medium
+6	Finland	7	Markkanen, Lauri	PF	1	Arizona 	Minnesota Timberwolves (traded to Chicago Bulls)[a]	medium
+7	France	8	Ntilikina, Frank	PG	1	SIG Strasbourg 	New York Knicks	medium
+8	United States	9	Smith Jr., Dennis	PG	1	NC State 	Dallas Mavericks	medium
+9	United States	10	Collins, Zach	C/PF	1	Gonzaga 	Sacramento Kings (from New Orleans,[D] traded to Portland Trail Blazers[b])	medium
+10	United States	11	Monk, Malik	SG	1	Kentucky 	Charlotte Hornets	medium
+11	United States	12	Kennard, Luke	SG	1	Duke 	Detroit Pistons	medium
+12	United States	13	Mitchell, Donovan	SG	1	Louisville 	Denver Nuggets (traded to Utah Jazz)[c]	medium
+13	United States	14	Adebayo, Bam	PF/C	1	Kentucky 	Miami Heat	medium
+14	United States	15	Jackson, Justin	SF	1	North Carolina 	Portland Trail Blazers (traded to Sacramento Kings)[b]	medium
+15	United States	16	Patton, Justin	C	1	Creighton 	Chicago Bulls (traded to Minnesota)[a]	low
+16	United States	17	Wilson, D. J.	PF/SF	1	Michigan 	Milwaukee Bucks	medium
+17	Israel  United States 	18	Leaf, T. J.	PF	1	UCLA 	Indiana Pacers	medium
+18	United States	19	Collins, John	PF	1	Wake Forest 	Atlanta Hawks	medium
+19	United States	20	Giles, Harry	PF/C	1	Duke 	Portland Trail Blazers (from Memphis via Denver and Cleveland,[E] traded to Sacramento Kings[b])	low
+20	United States	21	Ferguson, Terrance	SG	1	Adelaide 36ers 	Oklahoma City Thunder	medium
+21	United States	22	Allen, Jarrett	C	1	Texas 	Brooklyn Nets (from Washington)[F]	medium
+22	United Kingdom	23	Anunoby, OG	SF	1	Indiana 	Toronto Raptors (from L.A. Clippers via Milwaukee)[G]	medium
+23	United States	24	Lydon, Tyler	PF	1	Syracuse 	Utah Jazz (traded to Denver Nuggets)[c]	medium
+24	Latvia	25	Pasečņiks, Anžejs	C	1	Herbalife Gran Canaria 	Orlando Magic (from Toronto,[G] traded to Philadelphia 76ers)[d]	low
+25	United States	26	Swanigan, Caleb	PF	1	Purdue 	Portland Trail Blazers (from Cleveland)[H]	medium
+26	United States	27	Kuzma, Kyle	PF	1	Utah 	Brooklyn Nets (from Boston,[A] traded to Los Angeles Lakers)[e]	medium
+27	United States	28	Bradley, Tony	PF/C	1	North Carolina 	Los Angeles Lakers (from Houston,[I] traded to Utah Jazz)[f]	medium
+28	United States	29	White, Derrick	PG/SG	1	Colorado 	San Antonio Spurs	medium
+29	United States	30	Hart, Josh	SG	1	Villanova 	Utah Jazz (from Golden State,[J] traded to Los Angeles Lakers)[f]	medium
+30	United States	31	Jackson, Frank	PG	2	Duke 	Charlotte Hornets (from Brooklyn via Atlanta Hawks,[K] traded to New Orleans Pelicans)[g]	low
+31	United States	32	Reed, Davon	SG	2	Miami 	Phoenix Suns	medium
+32	United States	33	Iwundu, Wes	SF	2	Kansas State 	Orlando Magic (from L.A. Lakers)[L]	medium
+33	United States	34	Mason III, Frank	PG	2	Kansas 	Sacramento Kings (from Philadelphia via New Orleans)[D]	medium
+34	United States	35	Rabb, Ivan	PF	2	California 	Orlando Magic (traded to Memphis Grizzlies)[h]	medium
+35	Australia	36	Bolden, Jonah	PF	2	FMP Beograd 	Philadelphia 76ers (from New York via Utah and Toronto)[J]	low
+36	United States	37	Ojeleye, Semi	SF/PF	2	SMU 	Boston Celtics (from Minnesota via Phoenix)[M]	medium
+37	United States	38	Bell, Jordan	PF	2	Oregon 	Chicago Bulls (from Sacramento via Cleveland,[N] traded to Golden State Warriors)[i]	medium
+38	United States	39	Evans, Jawun	PG	2	Oklahoma State 	Philadelphia 76ers (from Dallas,[O] traded to Los Angeles Clippers)[j]	medium
+39	United States	40	Bacon, Dwayne	SG	2	Florida State 	New Orleans Pelicans (traded to Charlotte Hornets)[g]	medium
+40	Greece	41	Dorsey, Tyler	SG	2	Oregon 	Atlanta Hawks (from Charlotte)[K]	medium
+41	United States	42	Bryant, Thomas	PF	2	Indiana 	Utah Jazz (from Detroit,[J] traded to Los Angeles Lakers)[f]	medium
+42	Germany	43	Hartenstein, Isaiah	PF/C	2	Žalgiris Kaunas 	Houston Rockets (from Denver)[P]	low
+43	United States	44	Dotson, Damyean	SG	2	Houston 	New York Knicks (from Chicago)[Q]	medium
+44	Canada	45	Brooks, Dillon	SF	2	Oregon 	Houston Rockets (from Portland,[R] traded to Memphis Grizzlies)[k]	medium
+45	United States	46	Brown, Sterling	SG	2	SMU 	Philadelphia 76ers (from Miami via Atlanta)[J] traded to Milwaukee Bucks)[l]	medium
+46	United States	47	Anigbogu, Ike	C	2	UCLA 	Indiana Pacers	medium
+47	United States	48	Thornwell, Sindarius	SG	2	South Carolina 	Milwaukee Bucks (traded to Los Angeles Clippers)[m]	medium
+48	Slovenia	49	Čančar, Vlatko	SF	2	Mega Leks 	Denver Nuggets (from Memphis via Oklahoma City)[S]	low
+49	France	50	Lessort, Mathias	PF/C	2	Nanterre 92 	Philadelphia 76ers (from Atlanta)[J]	low
+50	United States	51	Morris, Monté	PG	2	Iowa State 	Denver Nuggets (from Oklahoma City)[S]	medium
+51	United States	52	Sumner, Edmond	PG	2	Xavier 	New Orleans Pelicans (from Washington,[T] traded to Indiana Pacers)[n]	low
+52	United States	53	Allen, Kadeem	SG	2	Arizona 	Boston Celtics (from Cleveland)[U]	medium
+53	United States	54	Peters, Alec	SF	2	Valparaiso 	Phoenix Suns (from Toronto)[V]	medium
+54	United States	55	Williams-Goss, Nigel	PG	2	Gonzaga 	Utah Jazz[J]	low
+55	United States	56	Bird, Jabari	SG	2	California 	Boston Celtics (from L.A. Clippers)[W]	medium
+56	Bulgaria	57	Vezenkov, Sasha	PF	2	FC Barcelona Lassa 	Brooklyn Nets (from Boston)[A]	low
+57	Serbia	58	Jaramaz, Ognjen	PG	2	Mega Leks 	New York Knicks (from Houston)[X]	low
+58	United States	59	Blossomgame, Jaron	SF	2	Clemson 	San Antonio Spurs	low
+59	France	60	Kaba, Alpha	PF/C	2	Mega Leks 	Atlanta Hawks (from Golden State via Philadelphia and Utah)[J]	low
+60	Australia	1	Simmons, Ben	PF/PG	1	LSU 	Philadelphia 76ers	medium
+61	United States	2	Ingram, Brandon	SF	1	Duke 	Los Angeles Lakers	medium
+62	United States	3	Brown, Jaylen	SF/SG	1	California 	Boston Celtics (from Brooklyn)[A]	medium
+63	Croatia	4	Bender, Dragan	PF/C	1	Maccabi FOX Tel Aviv 	Phoenix Suns	medium
+64	United States	5	Dunn, Kris	PG	1	Providence 	Minnesota Timberwolves	medium
+65	Bahamas	6	Hield, Buddy	SG	1	Oklahoma 	New Orleans Pelicans	medium
+66	Canada	7	Murray, Jamal	SG/PG	1	Kentucky 	Denver Nuggets (from New York)[B]	medium
+67	United States	8	Chriss, Marquese	PF	1	Washington 	Sacramento Kings (traded to Phoenix Suns)[a]	medium
+68	Austria	9	PoeltlJak	C	1	Utah 	Toronto Raptors (from Denver via New York)[C]	medium
+69	Australia	10	Maker, Thon	PF	1	Orangeville Prep/Athlete Institute 	Milwaukee Bucks	medium
+70	Lithuania	11	Sabonis, Domantas	PF/C	1	Gonzaga 	Orlando Magic (traded to Oklahoma City Thunder)[b]	medium
+71	United States	12	Prince, Taurean	PF	1	Baylor 	Utah Jazz (traded to Atlanta Hawks)[D]	medium
+72	Greece	13	Papagiannis, Georgios	C	1	Panathinaikos 	Phoenix Suns (from Washington,[E] traded to Sacramento Kings[a])	medium
+73	United States	14	Valentine, Denzel	SG/SF	1	Michigan State 	Chicago Bulls	medium
+74	Spain	15	Hernangómez, Juan	SF/PF	1	Movistar Estudiantes 	Denver Nuggets (from Houston)[F]	medium
+75	France	16	Yabusele, Guerschon	PF	1	Rouen Métropole 	Boston Celtics (from Dallas)[G]	medium
+76	United States	17	Baldwin IV, Wade	PG	1	Vanderbilt 	Memphis Grizzlies	medium
+77	United States	18	Ellenson, Henry	PF	1	Marquette 	Detroit Pistons	medium
+78	United States	19	Beasley, Malik	SG	1	Florida State 	Denver Nuggets (from Portland)[H]	medium
+79	United States	20	LeVert, Caris	SG	1	Michigan 	Indiana Pacers (traded to Brooklyn Nets)[c]	medium
+80	United States	21	Bembry, DeAndre'	SF	1	Saint Joseph's 	Atlanta Hawks	medium
+81	United States	22	Richardson, Malachi	SG	1	Syracuse 	Charlotte Hornets (traded to Sacramento Kings)[d]	medium
+82	Croatia	23	Žižić, Ante	C	1	KK Cibona 	Boston Celtics	medium
+83	France	24	Luwawu-Cabarrot, Timothé	SG/SF	1	Mega Leks 	Philadelphia 76ers (from Miami via Cleveland)[I]	medium
+84	United States	25	Johnson, Brice	PF	1	North Carolina 	Los Angeles Clippers	medium
+85	Turkey	26	Korkmaz, Furkan	SG/SF	1	Anadolu Efes 	Philadelphia 76ers (from Oklahoma City via Cleveland and Denver)[J]	medium
+86	Cameroon	27	Siakam, Pascal	PF	1	New Mexico State 	Toronto Raptors	medium
+87	Haiti	28	Labissière, Skal	PF/C	1	Kentucky 	Phoenix Suns (from Cleveland via Boston[K] traded to Sacramento Kings[a])	medium
+88	United States	29	Murray, Dejounte	PG/SG	1	Washington 	San Antonio Spurs	medium
+89	United States	30	Jones, Damian	C	1	Vanderbilt 	Golden State Warriors	medium
+90	United States	31	Davis, Deyonta	PF/C	2	Michigan State 	Boston Celtics (from Philadelphia via Miami[L] traded to Memphis Grizzlies[e])	medium
+91	Croatia	32	Zubac, Ivica	C	2	Mega Leks 	Los Angeles Lakers	medium
+92	Mali	33	Diallo, Cheick	PF/C	2	Kansas 	Los Angeles Clippers (from Brooklyn,[M] traded to New Orleans Pelicans[f])	medium
+93	United States	34	Ulis, Tyler	PG	2	Kentucky 	Phoenix Suns	medium
+94	Serbia	35	Zagorac, Rade	SG/SF	2	Mega Leks 	Boston Celtics (from Minnesota via New Orleans and Phoenix,[N] traded to Memphis Grizzlies[e])	low
+95	United States	36	Brogdon, Malcolm	PG/SG	2	Virginia 	Milwaukee Bucks (from New Orleans via Sacramento)[O]	medium
+96	United States	37	Onuaku, Chinanu	PF/C	2	Louisville 	Houston Rockets (from New York via Portland and Sacramento)[P][O]	medium
+97	United States	38	McCaw, Patrick	SG/SF	2	UNLV 	Milwaukee Bucks (traded to Golden State Warriors)[g]	medium
+98	France	39	Michineau, David	PG	2	Elan !Élan Chalon 	New Orleans Pelicans (from Denver via Philadelphia,[Q] traded to Los Angeles Clippers[f])	low
+99	United States	40	Stone, Diamond	C	2	Maryland 	New Orleans Pelicans (from Sacramento,[R][O] traded to Los Angeles Clippers[f])	medium
+100	United States	41	Zimmerman, Stephen	PF/C	2	UNLV 	Orlando Magic	medium
+101	United States	42	Whitehead, Isaiah	PG/SG	2	Seton Hall 	Utah Jazz (traded to Brooklyn Nets)[h]	medium
+102	China	43	Zhou Qi,	C	2	Xinjiang Flying Tigers 	Houston Rockets	medium
+103	France	44	Cordinier, Isaia	SG	2	ASC Denain-Voltaire 	Atlanta Hawks (from Washington)[S]	low
+104	United States	45	Jackson, Demetrius	PG	2	Notre Dame 	Boston Celtics (from Memphis via Denver and Dallas)[T][G]	medium
+105	United States	46	Hammons, A. J.	C	2	Purdue 	Dallas Mavericks	medium
+106	United States	47	Layman, Jake	SF	2	Maryland 	Orlando Magic (from Chicago,[U] traded to Portland Trail Blazers[i])	medium
+107	Germany	48	Zipser, Paul	SG/SF	2	FC Bayern Munich 	Chicago Bulls (from Portland via Cleveland)[V]	medium
+108	Nigeria	49	Gbinije, Michael	SF	2	Syracuse 	Detroit Pistons	medium
+109	United States	50	Niang, Georges	PF	2	Iowa State 	Indiana Pacers	medium
+110	Ghana	51	Bentil, Ben	PF	2	Providence 	Boston Celtics (from Miami)[W]	medium
+111	Ukraine	52	Bolomboy, Joel	PF/C	2	Weber State 	Utah Jazz (from Boston via Memphis)[X]	medium
+112	France	53	Cornelie, Petr	PF	2	Le Mans Sarthe 	Denver Nuggets (from Charlotte via Oklahoma City)[Y]	low
+113	United States	54	Felder, Kay	PG	2	Oakland 	Atlanta Hawks (traded to Cleveland Cavaliers)[j]	medium
+114	United States	55	Paige, Marcus	PG	2	North Carolina 	Brooklyn Nets (from L.A. Clippers,[M] traded to Utah Jazz)[h]	medium
+115	United States	56	Hamilton, Daniel	SG/SF	2	Connecticut 	Denver Nuggets (from Oklahoma City,[Y] traded to Oklahoma City Thunder[k])	medium
+116	China	57	Wang Zhelin, 	C	2	Fujian Sturgeons 	Memphis Grizzlies (from Toronto)[Z]	low
+117	Egypt	58	Nader, Abdel	SF	2	Iowa State 	Boston Celtics (from Cleveland)[AA]	medium
+118	United States	59	Cousins, Isaiah	PG/SG	2	Oklahoma 	Sacramento Kings (from San Antonio)[AB]	low
+119	United States	60	Wallace, Tyrone	PG	2	California 	Utah Jazz (from Golden State)[AC]	medium
+120	Dominican Republic	1	Towns, Karl-AnthonyK	C	1	Kentucky 	Minnesota Timberwolves	medium
+121	United States	2	Russell, D'Angelo	PG	1	Ohio State 	Los Angeles Lakers	medium
+122	United States	3	Okafor, Jahlil	C	1	Duke 	Philadelphia 76ers	medium
+123	Latvia	4	Porziņģis, Kristaps	PF/C	1	Baloncesto Sevilla 	New York Knicks	medium
+124	Croatia	5	Hezonja, Mario	SG/SF	1	FC Barcelona 	Orlando Magic	medium
+125	United States	6	Cauley-Stein, Willie	C	1	Kentucky 	Sacramento Kings	medium
+126	DR Congo	7	Mudiay, Emmanuel	PG	1	Guangdong Southern Tigers 	Denver Nuggets	medium
+127	United States	8	Johnson, Stanley	SF	1	Arizona 	Detroit Pistons	medium
+128	United States	9	Kaminsky, Frank	C	1	Wisconsin 	Charlotte Hornets	medium
+129	United States	10	Winslow, Justise	SF	1	Duke 	Miami Heat	medium
+130	United States	11	Turner, Myles	C	1	Texas 	Indiana Pacers	medium
+131	Canada	12	Lyles, Trey	PF	1	Kentucky 	Utah Jazz	medium
+132	United States	13	Booker, Devin	SG	1	Kentucky 	Phoenix Suns	medium
+133	United States	14	Payne, Cameron	PG	1	Murray State 	Oklahoma City Thunder	medium
+134	United States	15	Oubre Jr., Kelly	SG	1	Kansas 	Atlanta Hawks (from Brooklyn,[A] traded to Washington)[a]	medium
+135	United States	16	Rozier, Terry	PG	1	Louisville 	Boston Celtics	medium
+136	United States	17	Vaughn, Rashad	SG	1	UNLV 	Milwaukee Bucks	medium
+137	United States	18	Dekker, Sam	SF	1	Wisconsin 	Houston Rockets (from New Orleans)[B]	medium
+138	United States	19	Grant, Jerian	PG	1	Notre Dame 	Washington Wizards (traded to New York via Atlanta)[a][b]	medium
+139	United States	20	Wright, Delon	PG	1	Utah 	Toronto Raptors	medium
+140	United States	21	Anderson, Justin	SF	1	Virginia 	Dallas Mavericks	medium
+141	United States	22	Portis, Bobby	PF	1	Arkansas 	Chicago Bulls	medium
+142	United States	23	Hollis-Jefferson, Rondae	SF	1	Arizona 	Portland Trail Blazers (traded to Brooklyn)[c]	medium
+143	United States	24	Jones, Tyus	PG	1	Duke 	Cleveland Cavaliers (traded to Minnesota)[d]	medium
+144	United States	25	Martin, Jarell	PF	1	LSU 	Memphis Grizzlies	medium
+145	Serbia	26	Milutinov, Nikola	C	1	Partizan Belgrade 	San Antonio Spurs	medium
+146	United States	27	Nance Jr., Larry	PF	1	Wyoming 	Los Angeles Lakers (from Houston)[C]	medium
+147	United States	28	Hunter, R. J.	SG	1	Georgia State 	Boston Celtics (from L.A. Clippers)[D]	medium
+148	United States	29	McCullough, Chris	PF	1	Syracuse 	Brooklyn Nets (from Atlanta)[A]	medium
+149	United States	30	Looney, Kevon	PF	1	UCLA 	Golden State Warriors	medium
+150	Turkey	31	Osman, Cedi	SG/SF	2	Anadolu Efes 	Minnesota Timberwolves (traded to Cleveland)[d]	medium
+151	United States	32	Harrell, Montrezl	PF	2	Louisville 	Houston Rockets (from New York)[E]	medium
+152	United States	33	Mickey, Jordan	PF	2	LSU 	Boston Celtics (from Philadelphia via Miami)[F]	medium
+153	United States	34	Brown, Anthony	SF	2	Stanford 	Los Angeles Lakers	medium
+154	Spain	35	Hernangómez, Willy	C	2	Baloncesto Sevilla 	Philadelphia 76ers (from Orlando,[G] traded to New York)[e]	medium
+155	United States	36	Christmas, Rakeem	PF/C	2	Syracuse 	Minnesota Timberwolves (from Sacramento via Houston,[H][I] traded to Cleveland)[d]	medium
+156	United States	37	Holmes, Richaun	SF/PF	2	Bowling Green 	Philadelphia 76ers (from Denver via Houston, Portland and Minnesota)[J]	medium
+157	United States	38	Hilliard, Darrun	SG	2	Villanova 	Detroit Pistons	medium
+158	Argentina	39	Vaulet, Juan Pablo	SF	2	Estudiantes de Bahía 	Charlotte Hornets (traded to Brooklyn)[f]	medium
+159	United States	40	Richardson, Josh	SG	2	Tennessee 	Miami Heat	medium
+160	United States	41	Connaughton, Pat	SF	2	Notre Dame 	Brooklyn Nets[K] (traded to Portland)[c]	medium
+161	Canada	42	Hanlan, Olivier	PG	2	Boston College 	Utah Jazz	medium
+162	United States	43	Young, Joseph	PG	2	Oregon 	Indiana Pacers	medium
+163	United States	44	Harrison, Andrew	PG	2	Kentucky 	Phoenix Suns (traded to Memphis)[g]	medium
+164	United States	45	Thornton, Marcus	PG	2	William & Mary 	Boston Celtics	medium
+165	United States	46	Powell, Norman	SG	2	UCLA 	Milwaukee Bucks (traded to Toronto)[h]	medium
+166	Lithuania	47	Gudaitis, Artūras	C	2	Žalgiris Kaunas 	Philadelphia 76ers (from New Orleans via Washington and L.A. Clippers)[L]	medium
+167	United States	48	Johnson, Dakari	C	2	Kentucky 	Oklahoma City Thunder	medium
+168	United States	49	White, Aaron	PF	2	Iowa 	Washington Wizards	medium
+169	Sweden	50	Eriksson, Marcus	SG	2	FC Barcelona 	Atlanta Hawks (from Toronto)[M]	medium
+170	United States	51	Harvey, Tyler	PG	2	Eastern Washington 	Orlando Magic (from Chicago)[N]	medium
+171	India	52	Bhamara, Satnam Singh	C	2	IMG Academy 	Dallas Mavericks	medium
+172	United States	53	Pointer, Sir'Dominic	SF	2	St. John's 	Cleveland Cavaliers (from Portland via Chicago and Denver)[O]	medium
+173	Spain	54	Díez, Dani	SF	2	Gipuzkoa Basket 	Utah Jazz (from Cleveland,[P] traded to Portland)[i]	medium
+174	Haiti	55	Lalanne, Cady	PF	2	Massachusetts 	San Antonio Spurs	medium
+175	United States	56	Dawson, Branden	SF	2	Michigan State 	New Orleans Pelicans (from Memphis[Q], traded to L.A. Clippers)[j]	medium
+176	Serbia	57	Radičević, Nikola	PG	2	Baloncesto Sevilla 	Denver Nuggets (from L.A. Clippers)[R]	medium
+177	United States	58	Tokoto, J. P.	SG/SF	2	North Carolina 	Philadelphia 76ers (from Houston)[I]	medium
+178	Greece	59	Agravanis, Dimitrios	PF	2	Olympiacos 	Atlanta Hawks	medium
+179	Serbia	60	Mitrović, Luka	PF	2	Red Star Belgrade 	Philadelphia 76ers (from Golden State via Indiana)[S]	medium
+180	Canada	1	Wiggins, Andrew	SF/SG	1	Kansas 	Cleveland Cavaliers	medium
+181	United States	2	Parker, Jabari	SF/PF	1	Duke 	Milwaukee Bucks	medium
+182	Cameroon	3	Embiid, Joel	C	1	Kansas 	Philadelphia 76ers	medium
+183	United States	4	Gordon, Aaron	PF	1	Arizona 	Orlando Magic	medium
+184	Australia	5	Exum, Dante	PG/SG	1	Australian Institute of Sport	Utah Jazz	medium
+185	United States	6	Smart, Marcus	PG	1	Oklahoma State 	Boston Celtics	medium
+186	United States	7	Randle, Julius	PF	1	Kentucky 	Los Angeles Lakers	medium
+187	Canada	8	Stauskas, Nik	SG	1	Michigan 	Sacramento Kings	medium
+188	United States	9	Vonleh, Noah	PF	1	Indiana 	Charlotte Hornets (from Detroit)[A]	medium
+189	United States	10	Payton, Elfrid	PG	1	Louisiana–Lafayette 	Philadelphia 76ers (from New Orleans,[B] traded to Orlando)[a]	medium
+190	United States	11	McDermott, Doug	SF	1	Creighton 	Denver Nuggets (traded to Chicago)[b]	medium
+191	Croatia	12	Saric, Dario	SF/PF	1	Cibona Zagreb 	Orlando Magic (from New York via Denver,[C] traded to Philadelphia)[a]	medium
+192	United States	13	LaVine, Zach	SG	1	UCLA 	Minnesota Timberwolves	medium
+193	United States	14	Warren, T. J.	SF	1	North Carolina State 	Phoenix Suns	medium
+194	United States	15	Payne, Adreian	PF	1	Michigan State 	Atlanta Hawks	medium
+195	Bosnia and Herzegovina	16	Nurkić, Jusuf	C	1	Cedevita Zagreb 	Chicago Bulls (from Charlotte,[D] traded to Denver)[b]	medium
+196	United States	17	Young, James	SG/SF	1	Kentucky 	Boston Celtics (from Brooklyn)[E]	medium
+197	Canada	18	Ennis, Tyler	PG	1	Syracuse 	Phoenix Suns (from Washington)[F]	medium
+198	United States	19	Harris, Gary	SG	1	Michigan State 	Chicago Bulls (traded to Denver)[b]	medium
+199	Brazil	20	Caboclo, Bruno	SF	1	EC Pinheiros 	Toronto Raptors	medium
+200	United States	21	McGary, Mitch	PF	1	Michigan 	Oklahoma City Thunder (from Dallas via L.A. Lakers and Houston)[G]	medium
+201	United States	22	Adams, Jordan	SG	1	UCLA 	Memphis Grizzlies	medium
+202	United States	23	Hood, Rodney	SG	1	Duke 	Utah Jazz (from Golden State)[H]	medium
+203	United States	24	Napier, Shabazz	PG	1	Connecticut 	Charlotte Hornets (from Portland,[I] traded to Miami)[c]	medium
+204	Switzerland	25	Capela, Clint	C	1	Élan Chalon 	Houston Rockets	medium
+205	United States	26	Hairston, P. J.	SG	1	Texas Legends 	Miami Heat (traded to Charlotte)[c]	medium
+206	Serbia	27	Bogdanović, Bogdan	SG	1	Partizan Belgrade 	Phoenix Suns (from Indiana)[J]	medium
+207	United States	28	Wilcox, C. J.	SG	1	Washington 	Los Angeles Clippers	medium
+208	United States	29	Huestis, Josh	SF/PF	1	Stanford 	Oklahoma City Thunder	medium
+209	United States	30	Anderson, Kyle	SF	1	UCLA 	San Antonio Spurs	medium
+210	France	31	Inglis, Damien	SF	2	Chorale Roanne 	Milwaukee Bucks	medium
+211	United States	32	McDaniels, K. J.	SF	2	Clemson 	Philadelphia 76ers	medium
+212	United States	33	Harris, Joe	SG	2	Virginia 	Cleveland Cavaliers (from Orlando)[K]	medium
+213	United States	34	Early, Cleanthony	SF	2	Wichita State 	New York Knicks (from Boston via Dallas)[L][M]	medium
+214	United States	35	Stokes, Jarnell	PF	2	Tennessee 	Utah Jazz (traded to Memphis)[d]	medium
+215	United States	36	O'Bryant III, Johnny	PF	2	Louisiana State 	Milwaukee Bucks (from L.A. Lakers via Phoenix and Minnesota)[N]	medium
+216	United States	37	Daniels, DeAndre	SF	2	Connecticut 	Toronto Raptors (from Sacramento)[O]	low
+217	United States	38	Dinwiddie, Spencer	PG/SG	2	Colorado 	Detroit Pistons	medium
+218	United States	39	Grant, Jerami	SF	2	Syracuse 	Philadelphia 76ers (from Cleveland)[P]	medium
+219	United States	40	Robinson III, Glenn	SF	2	Michigan 	Minnesota Timberwolves (from New Orleans)[Q]	medium
+220	Serbia	41	Jokić, Nikola	PF/C	2	Mega Vizura 	Denver Nuggets	medium
+221	United States	42	Johnson, Nick	PG/SG	2	Arizona 	Houston Rockets (from New York)[R]	medium
+222	Cape Verde	43	Tavares, Walter	C	2	CB Gran Canaria 	Atlanta Hawks	medium
+223	United States	44	Brown, Markel	SG	2	Oklahoma State 	Minnesota Timberwolves[S] (traded to Brooklyn)[e]	medium
+224	Canada	45	Powell, Dwight	PF	2	Stanford 	Charlotte Hornets	medium
+225	United States  Philippines	46	Clarkson, Jordan	PG	2	Missouri 	Washington Wizards (traded to L.A. Lakers)[f]	medium
+226	United States	47	Smith, Russ	PG/SG	2	Louisville 	Philadelphia 76ers (from Brooklyn via Boston and Dallas,[T][L][U] traded to New Orleans)[g]	medium
+227	United States	48	Patterson, Lamar	SG/SF	2	Pittsburgh 	Milwaukee Bucks (from Toronto via Phoenix,[V] traded to Atlanta)[h]	medium
+228	Australia	49	Bairstow, Cameron	PF/C	2	New Mexico 	Chicago Bulls	medium
+229	United States	50	Brown, Alec	C	2	Green Bay 	Phoenix Suns	low
+230	Greece	51	Antetokounmpo, Thanasis	SF	2	Delaware 87ers 	New York Knicks (from Dallas)[M]	medium
+231	Serbia	52	Micić, Vasilije	PG	2	Mega Vizura 	Philadelphia 76ers (from Memphis via Cleveland)[W][P]	low
+232	Italy	53	Gentile, Alessandro	SF	2	Olimpia Milano 	Minnesota Timberwolves (from Golden State,[X] traded to Houston)[i]	low
+233	Serbia	54	Dangubić, Nemanja	SG	2	Mega Vizura 	Philadelphia 76ers (from Houston via Milwaukee,[Y] traded to San Antonio)[j]	low
+234	United States	55	Christon, Semaj	PG	2	Xavier 	Miami Heat (traded to Oklahoma City via Charlotte)[c][k]	medium
+235	United States	56	Marble, Devyn	SG/SF	2	Iowa 	Denver Nuggets (from Portland,[Z] traded to Orlando)[l]	medium
+236	France	57	Labeyrie, Louis	PF/C	2	Paris-Levallois Basket 	Indiana Pacers (traded to New York)[m]	low
+237	United States	58	McRae, Jordan	SG	2	Tennessee 	San Antonio Spurs (from L.A. Clippers via New Orleans,[AA] traded to Philadelphia)[j]	medium
+238	United States	59	Thames, Xavier	PG/SG	2	San Diego State 	Toronto Raptors (from Oklahoma City via New York,[AB] traded to Brooklyn)[n]	low
+239	United States	60	Jefferson, Cory	PF	2	Baylor 	San Antonio Spurs (traded to Brooklyn via Philadelphia)[j][o]	medium
+240	Canada	1	Bennett, Anthony	PF/SF	1	UNLV 	Cleveland Cavaliers	medium
+241	United States	2	Oladipo, Victor	SG/PG	1	Indiana 	Orlando Magic	medium
+242	United States	3	Porter, Otto	SF	1	Georgetown 	Washington Wizards	medium
+243	United States	4	Zeller, Cody	C/PF	1	Indiana 	Charlotte Bobcats	medium
+244	Ukraine	5	Len, Alex	C	1	Maryland 	Phoenix Suns	medium
+245	United States	6	Noel, Nerlens	C	1	Kentucky 	New Orleans Pelicans (traded to Philadelphia)[A]	medium
+246	United States	7	McLemore, Ben	SG	1	Kansas 	Sacramento Kings	medium
+247	United States	8	Caldwell-Pope, Kentavious	SG	1	Georgia 	Detroit Pistons	medium
+248	United States	9	Burke, Trey	PG	1	Michigan 	Minnesota Timberwolves (traded to Utah)[B]	medium
+249	United States	10	McCollum, C. J.	SG	1	Lehigh 	Portland Trail Blazers	medium
+250	United States	11	Carter-Williams, Michael	PG	1	Syracuse 	Philadelphia 76ers	medium
+251	New Zealand	12	Adams, Steven	C	1	Pittsburgh 	Oklahoma City Thunder (from Toronto via Houston)[a]	medium
+252	Canada	13	Olynyk, Kelly	C	1	Gonzaga 	Dallas Mavericks (traded to Boston)[C]	medium
+253	United States	14	Muhammad, Shabazz	SG/SF	1	UCLA 	Utah Jazz (traded to Minnesota)[B]	medium
+254	Greece	15	Antetokounmpo, Giannis	SF/PF	1	Filathlitikos 	Milwaukee Bucks	high
+255	Brazil	16	Nogueira, Lucas	C	1	Estudiantes 	Boston Celtics (traded to Atlanta via Dallas)[C][D]	medium
+256	Germany	17	Schröder, Dennis	PG	1	Phantoms Braunschweig 	Atlanta Hawks	medium
+257	United States	18	Larkin, Shane	PG	1	Miami 	Atlanta Hawks (from Houston via Brooklyn,[b] traded to Dallas)[D]	medium
+258	Russia	19	Karasev, Sergey	SG/SF	1	Triumph Lyubertsy 	Cleveland Cavaliers (from LA Lakers)[c]	medium
+259	United States	20	Snell, Tony	SF	1	New Mexico 	Chicago Bulls	medium
+260	Senegal	21	Dieng, Gorgui	C	1	Louisville 	Utah Jazz (from Golden State via Brooklyn,[d] traded to Minnesota)[B]	medium
+261	United States	22	Plumlee, Mason	C	1	Duke 	Brooklyn Nets	medium
+262	United States	23	Hill, Solomon	SF	1	Arizona 	Indiana Pacers	medium
+263	United States	24	Hardaway Jr., Tim	SG	1	Michigan 	New York Knicks	medium
+264	United States	25	Bullock, Reggie	SF	1	North Carolina 	Los Angeles Clippers	medium
+265	United States	26	Roberson, André	SG/SF	1	Colorado 	Minnesota Timberwolves (from Memphis via Houston,[e] traded to Oklahoma City via Golden State)[E]	medium
+266	France	27	Gobert, Rudy	C	1	Cholet Basket 	Denver Nuggets (traded to Utah)[F]	high
+267	France	28	Jean-Charles, Livio	SF	1	ASVEL Basket 	San Antonio Spurs	low
+268	United States	29	Goodwin, Archie	SG	1	Kentucky 	Oklahoma City Thunder (traded to Phoenix via Golden State) [E][G]	medium
+269	Serbia	30	Nedović, Nemanja	PG	1	Lietuvos Rytas 	Phoenix Suns (from Miami via Cleveland and LA Lakers,[c][f] traded to Golden State)[G]	medium
+270	United States	31	Crabbe, Allen	SG	2	California 	Cleveland Cavaliers (from Orlando,[g] traded to Portland)[H]	medium
+271	Spain	32	Abrines, Álex	SG/SF	2	FC Barcelona 	Oklahoma City Thunder (from Charlotte via Oklahoma City, Boston and Houston)[a]	medium
+272	United States	33	Felix, Carrick	SG	2	Arizona State 	Cleveland Cavaliers	medium
+273	United States	34	Canaan, Isaiah	PG	2	Murray State 	Houston Rockets (from Phoenix)[h]	medium
+274	United States	35	Rice Jr., Glen	SG	2	Rio Grande Valley Vipers 	Philadelphia 76ers (from New Orleans,[i] traded to Washington)[I]	medium
+275	United States	36	McCallum Jr., Ray	PG	2	Detroit 	Sacramento Kings	medium
+276	United States	37	Mitchell, Tony	PF	2	North Texas 	Detroit Pistons	medium
+277	United States	38	Wolters, Nate	PG	2	South Dakota State 	Washington Wizards (traded to Milwaukee via Philadelphia)[I][J]	medium
+278	United States	39	Withey, Jeff	C	2	Kansas 	Portland Trail Blazers (from Minnesota via Cleveland and Boston)[j]	medium
+279	United States	40	Jerrett, Grant	PF	2	Arizona 	Portland Trail Blazers (traded to Oklahoma City)[K]	medium
+280	United States	41	Franklin, Jamaal	SG	2	San Diego State 	Memphis Grizzlies (from Toronto via Dallas and Toronto)[k]	medium
+281	United States	42	Jackson, Pierre	PG	2	Baylor 	Philadelphia 76ers (traded to New Orleans)[A]	medium
+282	United States	43	Ledo, Ricky	SG	2	Providence 	Milwaukee Bucks (traded to Dallas via Philadelphia)[J][L]	medium
+283	United States	44	Muscala, Mike	C	2	Bucknell 	Dallas Mavericks (traded to Atlanta)[D]	medium
+284	Montenegro	45	Todorović, Marko	PF/C	2	FC Barcelona 	Portland Trail Blazers (from Boston)[j]	low
+285	United States	46	Green, Erick	PG	2	Virginia Tech 	Utah Jazz (traded to Denver)[F]	medium
+286	Brazil	47	Neto, Raul	PG	2	Gipuzkoa Basket 	Atlanta Hawks (traded to Utah)	medium
+287	United States	48	Kelly, Ryan	PF	2	Duke 	Los Angeles Lakers	medium
+288	Finland	49	Murphy, Erik	PF	2	Florida 	Chicago Bulls	medium
+289	United States	50	Ennis, James	SF	2	Long Beach State 	Atlanta Hawks (traded to Miami)[M]	medium
+290	United States	51	Osby, Romero	PF	2	Oklahoma 	Orlando Magic (from Denver)[l]	low
+291	United States	52	Brown, Lorenzo	PG	2	NC State 	Minnesota Timberwolves (from Brooklyn via Minnesota and New Orleans)[m]	medium
+292	United States	53	Iverson, Colton	C	2	Colorado State 	Indiana Pacers (traded to Boston)[N]	low
+293	Iran	54	Kazemi, Arsalan	PF	2	Oregon 	Washington Wizards (from New York,[n] traded to Philadelphia)[I]	low
+294	France	55	Lauvergne, Joffrey	C	2	Partizan Belgrade 	Memphis Grizzlies (traded to Denver)[O]	medium
+295	United States	56	Siva, Peyton	PG	2	Louisville 	Detroit Pistons (from Los Angeles Clippers)[o]	medium
+296	United States	57	Oriakhi, Alex	C	2	Missouri 	Phoenix Suns (from Denver via LA Lakers)[f]	low
+297	United States	58	Thomas, Deshaun	SF	2	Ohio State 	San Antonio Spurs	low
+298	Montenegro	59	Dubljević, Bojan	PF	2	Valencia Basket 	Minnesota Timberwolves (from Oklahoma City)[p]	low
+299	Latvia	60	Timma, Jānis	SF	2	BK Ventspils 	Memphis Grizzlies (from Miami)[q]	low
+300	United States	1	Davis, Anthony	PF/C	1	Kentucky 	New Orleans Hornets	high
+301	United States	2	Kidd-Gilchrist, Michael	SF	1	Kentucky 	Charlotte Bobcats	medium
+302	United States	3	Beal, Bradley	SG	1	Florida 	Washington Wizards	medium
+303	United States	4	Waiters, Dion	SG	1	Syracuse 	Cleveland Cavaliers	medium
+304	United States	5	Robinson, Thomas	PF	1	Kansas 	Sacramento Kings	medium
+305	United States	6	Lillard, DamianD	PG	1	Weber St. 	Portland Trail Blazers (from Brooklyn)[a]	high
+306	United States	7	Barnes, Harrison	SF	1	North Carolina 	Golden State Warriors	medium
+307	United States	8	Ross, Terrence	SG	1	Washington 	Toronto Raptors	medium
+308	United States	9	Drummond, Andre	C	1	Connecticut 	Detroit Pistons	high
+309	United States	10	Rivers, Austin	SG	1	Duke 	New Orleans Hornets (from Minnesota via L.A. Clippers)[b]	medium
+310	United States	11	Leonard, Meyers	C	1	Illinois 	Portland Trail Blazers	medium
+311	United States	12	Lamb, Jeremy	SG	1	Connecticut 	Houston Rockets (from Milwaukee)[c]	medium
+312	United States	13	Marshall, Kendall	PG	1	North Carolina 	Phoenix Suns	medium
+313	United States	14	Henson, John	PF	1	North Carolina 	Milwaukee Bucks (from Houston)[c]	medium
+314	Puerto Rico	15	Harkless, Maurice	SF	1	St. John's 	Philadelphia 76ers	medium
+315	United States	16	White, Royce	PF	1	Iowa St. 	Houston Rockets (from New York)[d]	medium
+316	United States	17	Zeller, Tyler	C	1	North Carolina 	Dallas Mavericks (traded to Cleveland)[A]	medium
+317	United States	18	Jones, Terrence	PF	1	Kentucky 	Houston Rockets (from Utah via Minnesota)[e]	medium
+318	Canada	19	Nicholson, Andrew	PF	1	St. Bonaventure 	Orlando Magic	medium
+319	France	20	Fournier, Evan	SG	1	Poitiers Basket 	Denver Nuggets	medium
+320	United States	21	Sullinger, Jared	PF	1	Ohio St. 	Boston Celtics	medium
+321	Brazil	22	Melo, Fab	C	1	Syracuse 	Boston Celtics (from L.A. Clippers via Oklahoma City)[f]	medium
+322	United States	23	Jenkins, John	SG	1	Vanderbilt 	Atlanta Hawks	medium
+323	United States	24	Cunningham, Jared	SG	1	Oregon St. 	Cleveland Cavaliers (from L.A. Lakers,[g] traded to Dallas)[A]	medium
+324	United States	25	Wroten, Tony	PG	1	Washington 	Memphis Grizzlies	medium
+325	United States	26	Plumlee, Miles	C	1	Duke 	Indiana Pacers	medium
+326	United States	27	Moultrie, Arnett	PF	1	Mississippi St. 	Miami Heat (traded to Philadelphia)[B]	medium
+327	United States	28	Jones III, Perry	SF	1	Baylor 	Oklahoma City Thunder	medium
+328	United States	29	Teague, Marquis	PG	1	Kentucky 	Chicago Bulls	medium
+329	Nigeria	30	Ezeli, Festus	C	1	Vanderbilt 	Golden State Warriors (from San Antonio)[h]	medium
+330	Sweden	31	Taylor, Jeffery	SF	2	Vanderbilt 	Charlotte Bobcats	medium
+331	Czech Republic	32	Satoranský, Tomáš	SG	2	Banca Cívica Sevilla 	Washington Wizards	medium
+332	United States	33	James, Bernard	C	2	Florida St. 	Cleveland Cavaliers (traded to Dallas)[A]	medium
+333	United States	34	Crowder, Jae	SF	2	Marquette 	Cleveland Cavaliers (from New Orleans via Miami,[i] traded to Dallas)[A]	medium
+334	United States	35	Green, Draymond	PF	2	Michigan St. 	Golden State Warriors (from Brooklyn)[j]	high
+335	United States	36	Johnson, Orlando	SG	2	UC Santa Barbara 	Sacramento Kings (traded to Indiana)[C]	medium
+336	United States	37	Acy, Quincy	PF	2	Baylor 	Toronto Raptors	medium
+337	United States	38	Miller, Quincy	SF	2	Baylor 	Denver Nuggets (from Golden State via New York)[k]	medium
+338	United States	39	Middleton, Khris	SF	2	Texas A&M 	Detroit Pistons	medium
+339	United States	40	Barton, Will	SG	2	Memphis 	Portland Trail Blazers (from Minnesota via Houston)[l]	medium
+340	United States	41	Taylor, Tyshawn	PG	2	Kansas 	Portland Trail Blazers (traded to Brooklyn)[D]	medium
+341	United States	42	Lamb, Doron	SG	2	Kentucky 	Milwaukee Bucks	medium
+342	United States	43	Scott, Mike	PF	2	Virginia 	Atlanta Hawks (from Phoenix)[m]	medium
+343	United States	44	English, Kim	SG	2	Missouri 	Detroit Pistons (from Houston)[n]	medium
+344	United States	45	Hamilton, Justin	C	2	LSU 	Philadelphia 76ers (traded to Miami)[B]	medium
+345	United States	46	Miller, Darius	SF	2	Kentucky 	New Orleans Hornets (from Dallas via Washington)[o]	medium
+346	United States	47	Murphy, Kevin	SG	2	Tennessee Tech 	Utah Jazz	medium
+347	Greece	48	Papanikolaou, Kostas	SF	2	Olympiacos 	New York Knicks	medium
+348	United States	49	O'Quinn, Kyle	PF	2	Norfolk St. 	Orlando Magic	medium
+349	Turkey	50	Turkyilmaz, Izzet	PF	2	Banvit 	Denver Nuggets	low
+350	Canada	51	Joseph, Kris	SF	2	Syracuse 	Boston Celtics	medium
+351	Serbia	52	Kuzmić, Ognjen	C	2	Clinicas Rincón 	Golden State Warriors (from Atlanta)[p]	medium
+352	Turkey	53	Aldemir, Furkan	PF	2	Galatasaray 	Los Angeles Clippers	medium
+353	Georgia	54	Shengelia, Tornike	SF	2	Spirou Charleroi 	Philadelphia 76ers (from Memphis,[q] traded to Brooklyn)[E]	medium
+354	United States	55	Johnson-Odom, Darius	SG	2	Marquette 	Dallas Mavericks (from L.A. Lakers,[r] traded back to the L.A. Lakers)[F]	medium
+355	Croatia	56	Zubčić, Tomislav	PF	2	Cibona Zagreb 	Toronto Raptors (from Indiana)[s]	low
+356	Turkey	57	Karaman, İlkan	PF	2	Pınar Karşıyaka 	Brooklyn Nets (from Miami)[t]	low
+357	United States	58	Hummel, Robbie	SF	2	Purdue 	Minnesota Timberwolves (from Oklahoma City)[u]	medium
+358	United States	59	Denmon, Marcus	PG	2	Missouri 	San Antonio Spurs	low
+359	Canada	60	Sacre, Robert	C	2	Gonzaga 	Los Angeles Lakers (from Chicago via Milwaukee and Brooklyn)[v]	medium
+360	United States	1	Irving, KyrieK	PG	1	Duke 	Cleveland Cavaliers (from L.A. Clippers)[a]	high
+361	United States	2	Williams, Derrick	SF/PF	1	Arizona 	Minnesota Timberwolves	medium
+362	Turkey	3	Kanter, Enes	C	1	Kentucky 	Utah Jazz (from New Jersey)[b]	medium
+363	Canada	4	Thompson, Tristan	C/PF	1	Texas 	Cleveland Cavaliers	medium
+364	Lithuania	5	Valančiūnas, Jonas	C	1	Lietuvos rytas Vilnius 	Toronto Raptors[c]	medium
+365	Czech Republic	6	Veselý, Jan	PF	1	Partizan Belgrade 	Washington Wizards	medium
+366	DR Congo	7	Biyombo, Bismack	C	1	Fuenlabrada 	Sacramento Kings (traded to Charlotte)[A]	medium
+367	United States	8	Knight, Brandon	PG	1	Kentucky 	Detroit Pistons	medium
+368	United States	9	Walker, Kemba	PG	1	Connecticut 	Charlotte Bobcats	medium
+369	United States	10	Fredette, Jimmer	PG/SG	1	BYU 	Milwaukee Bucks (traded to Sacramento)[A]	medium
+370	United States	11	Thompson, Klay	SG	1	Washington State 	Golden State Warriors	high
+371	United States	12	Burks, Alec	SG	1	Colorado 	Utah Jazz	medium
+372	United States	13	Morris, Markieff	PF	1	Kansas 	Phoenix Suns	medium
+373	United States	14	Morris, Marcus	PF/SF	1	Kansas 	Houston Rockets	medium
+374	United States	15	Leonard, Kawhi	SF	1	San Diego State 	Indiana Pacers (traded to San Antonio)[B]	high
+375	Montenegro	16	Vučević, Nikola	C	1	USC 	Philadelphia 76ers	medium
+376	United States	17	Shumpert, Iman	SG	1	Georgia Tech 	New York Knicks	medium
+377	United States	18	Singleton, Chris	SF	1	Florida State 	Washington Wizards (from Atlanta)[d]	medium
+378	United States	19	Harris, Tobias	SF	1	Tennessee 	Charlotte Bobcats (from New Orleans via Portland,[e] traded to Milwaukee)[A]	medium
+379	Lithuania	20	Motiejūnas, Donatas	PF	1	Benetton Treviso 	Minnesota Timberwolves (from Memphis via Utah,[f] traded to Houston)[C]	medium
+380	United States	21	Smith, Nolan	PG	1	Duke 	Portland Trail Blazers	medium
+381	United States	22	Faried, Kenneth	PF	1	Morehead State 	Denver Nuggets	medium
+382	Spain	23	Mirotić, Nikola	PF	1	Real Madrid 	Houston Rockets (from Orlando via Phoenix,[g] traded to Chicago via Minnesota)[C][D]	medium
+383	United States	24	Jackson, Reggie	PG	1	Boston College 	Oklahoma City Thunder	medium
+384	United States	25	Brooks, MarShon	SG	1	Providence 	Boston Celtics (traded to New Jersey)[E]	medium
+385	United States	26	Hamilton, Jordan	SG	1	Texas 	Dallas Mavericks (traded to Denver)[F]	medium
+386	United States	27	Johnson, JaJuan	PF	1	Purdue 	New Jersey Nets (from L.A. Lakers,[h] traded to Boston)[E]	medium
+387	United States	28	Cole, Norris	PG	1	Cleveland State 	Chicago Bulls (from Miami via Toronto,[c] traded to Miami via Minnesota)[D][G]	medium
+388	Canada	29	Joseph, Cory	PG	1	Texas 	San Antonio Spurs	medium
+389	United States	30	Butler, Jimmy	SG	1	Marquette 	Chicago Bulls	high
+390	Croatia	31	Bogdanović, Bojan	SF/SG	2	Cibona Zagreb 	Miami Heat (from Minnesota,[i] traded to New Jersey via Minnesota)[G][H]	medium
+391	United States	32	Harper, Justin	PF	2	Richmond 	Cleveland Cavaliers (traded to Orlando)[I]	medium
+392	United States	33	Singler, Kyle	SF	2	Duke 	Detroit Pistons (from Toronto)[j]	medium
+393	United States	34	Mack, Shelvin	PG	2	Butler 	Washington Wizards	medium
+394	United States	35	Honeycutt, Tyler	SF	2	UCLA 	Sacramento Kings	medium
+395	United States	36	Williams, Jordan	PF	2	Maryland 	New Jersey Nets	medium
+396	United States	37	Thompkins, Trey	PF	2	Georgia 	Los Angeles Clippers (from Detroit)[k]	medium
+397	United States	38	Parsons, Chandler	SF	2	Florida 	Houston Rockets (from L.A. Clippers)[l][C]	medium
+398	United States	39	Tyler, Jeremy	PF	2	Tokyo Apache 	Charlotte Bobcats (traded to Golden State)[J]	medium
+399	United States	40	Leuer, Jon	PF	2	Wisconsin 	Milwaukee Bucks	medium
+400	United States	41	Morris, Darius	PG	2	Michigan 	Los Angeles Lakers (from Golden State via New Jersey)[h]	medium
+401	Latvia	42	Bertāns, Dāvis	SF	2	Union Olimpija 	Indiana Pacers (traded to San Antonio)[B]	medium
+402	United States	43	Lee, Malcolm	SG	2	UCLA 	Chicago Bulls (from Utah,[m] traded to Minnesota)[D]	medium
+403	United States	44	Jenkins, Charles	PG	2	Hofstra 	Golden State Warriors (from Phoenix via Chicago)[n]	medium
+404	United States	45	Harrellson, Josh	C	2	Kentucky 	New Orleans Hornets (from Philadelphia,[o] traded to New York)[K]	medium
+405	United States	46	Goudelock, Andrew	PG	2	College of Charleston 	Los Angeles Lakers (from New York)[p]	medium
+406	United States	47	Leslie, Travis	SG	2	Georgia 	Los Angeles Clippers (from Houston)[l]	medium
+407	United States	48	Benson, Keith	C	2	Oakland 	Atlanta Hawks	medium
+408	United States	49	Selby, Josh	PG	2	Kansas 	Memphis Grizzlies	medium
+409	United States	50	Allen, Lavoy	PF	2	Temple 	Philadelphia 76ers (from New Orleans)[o]	medium
+410	United States	51	Diebler, Jon	SG	2	Ohio State 	Portland Trail Blazers	low
+411	United States	52	Macklin, Vernon	PF	2	Florida 	Detroit Pistons (from Denver)[q]	medium
+412	United States	53	Liggins, DeAndre	SG	2	Kentucky 	Orlando Magic	medium
+413	Serbia	54	Macvan, Milan	PF	2	Maccabi Tel Aviv 	Cleveland Cavaliers (from Oklahoma City via Miami)[r]	low
+414	United States	55	Moore, Etwaun	SG	2	Purdue 	Boston Celtics	medium
+415	Nigeria	56	Maduabum, Chukwudiebere	PF	2	Bakersfield Jam 	Los Angeles Lakers (traded to Denver)[L]	low
+416	Qatar	57	Ngombo, Tanguy	SF	2	Al Rayyan 	Dallas Mavericks (traded to Portland)[F]	low
+417	Australia	58	Majok, Ater	PF	2	Gold Coast Blaze 	Los Angeles Lakers (from Miami)[s]	low
+418	Hungary	59	Hanga, Ádám	SG	2	Albacomp 	San Antonio Spurs	low
+419	United States	60	Thomas, Isaiah	PG	2	Washington 	Sacramento Kings (from Chicago via Milwaukee)[t]	high
+420	United States	1	Wall, John	PG	1	Kentucky 	Washington Wizards	high
+421	United States	2	Turner, Evan	SF/SG	1	Ohio State 	Philadelphia 76ers	medium
+422	United States	3	Favors, Derrick	PF	1	Georgia Tech 	New Jersey Nets	medium
+423	United States	4	Johnson, Wesley	SF	1	Syracuse 	Minnesota Timberwolves	medium
+424	United States	5	Cousins, DeMarcus	C	1	Kentucky 	Sacramento Kings	high
+425	United States	6	Udoh, Ekpe	C	1	Baylor 	Golden State Warriors	medium
+426	United States	7	Monroe, Greg	PF	1	Georgetown 	Detroit Pistons	medium
+427	United States  Nigeria	8	Aminu, Al-Farouq	SF	1	Wake Forest 	Los Angeles Clippers	medium
+428	United States	9	Hayward, Gordon	SF	1	Butler 	Utah Jazz (from New York via Phoenix)[a]	medium
+429	United States	10	George, Paul	SF	1	Fresno State 	Indiana Pacers	medium
+430	United States	11	Aldrich, Cole	C	1	Kansas 	New Orleans Hornets (traded to Oklahoma City)[A]	medium
+431	United States	12	Henry, Xavier	SG	1	Kansas 	Memphis Grizzlies	medium
+432	United States	13	Davis, Ed	PF	1	North Carolina 	Toronto Raptors	medium
+433	United States	14	Patterson, Patrick	PF	1	Kentucky 	Houston Rockets	medium
+434	United States	15	Sanders, Larry	C	1	VCU 	Milwaukee Bucks (from Chicago)[b]	medium
+435	United States	16	Babbitt, Luke	SF	1	Nevada 	Minnesota Timberwolves (from Charlotte via Denver,[c] traded to Portland)[B]	medium
+436	France	17	Séraphin, Kévin	PF	1	Cholet Basket 	Chicago Bulls (from Milwaukee,[b] traded to Washington)[C]	medium
+437	United States	18	Bledsoe, Eric	PG	1	Kentucky 	Oklahoma City Thunder (from Miami,[d] traded to LA Clippers)[D]	medium
+438	United States	19	Bradley, Avery	SG	1	Texas 	Boston Celtics	medium
+439	United States	20	Anderson, James	SG	1	Oklahoma State 	San Antonio Spurs	medium
+440	United States	21	Brackins, Craig	PF	1	Iowa State 	Oklahoma City Thunder (traded to New Orleans)[A]	medium
+441	United States	22	Williams, Elliot	SG	1	Memphis 	Portland Trail Blazers	medium
+442	United States	23	Booker, Trevor	PF	1	Clemson 	Minnesota Timberwolves (from Utah via Philadelphia,[e] traded to Washington)[E]	medium
+443	United States	24	James, Damion	SF	1	Texas 	Atlanta Hawks (traded to New Jersey)[F]	medium
+444	United States	25	Jones, Dominique	SG	1	USF 	Memphis Grizzlies (from Denver,[f] traded to Dallas)[G]	medium
+445	United States	26	Pondexter, Quincy	SF	1	Washington 	Oklahoma City Thunder (from Phoenix,[g] traded to New Orleans)[A]	medium
+446	United States	27	Crawford, Jordan	SG	1	Xavier 	New Jersey Nets (from Dallas,[h] traded to Atlanta)[F]	medium
+447	Venezuela	28	Vásquez, Greivis	PG	1	Maryland 	Memphis Grizzlies (from L.A. Lakers)[i]	medium
+448	United States	29	Orton, Daniel	C	1	Kentucky 	Orlando Magic	medium
+449	United States	30	Hayward, Lazar	SF	1	Marquette 	Washington Wizards (from Cleveland,[j] traded to Minnesota)[E]	medium
+450	Germany	31	Pleiß, Tibor	C	2	Brose Bamberg 	New Jersey Nets (traded to Oklahoma City via Atlanta)[F][H]	medium
+451	United States	32	Pittman, Dexter	C	2	Texas 	Miami Heat (from Minnesota via Oklahoma City)[d]	medium
+452	United States	33	Whiteside, Hassan	C	2	Marshall 	Sacramento Kings	medium
+453	United States	34	Johnson, Armon	PG	2	Nevada 	Portland Trail Blazers (from Golden State)[k]	medium
+454	Serbia	35	Bjelica, Nemanja	SF	2	Red Star Belgrade 	Washington Wizards (traded to Minnesota)[E]	medium
+455	United States	36	White, TerricoTe	SG	2	Ole Miss 	Detroit Pistons	medium
+456	United States	37	Hobson, Darington	SF	2	New Mexico 	Milwaukee Bucks (from Philadelphia)[l]	medium
+457	Canada	38	Rautins, Andy	SG	2	Syracuse 	New York Knicks	medium
+458	United States	39	Fields, Landry	SG	2	Stanford 	New York Knicks (from L.A. Clippers via Denver)[m]	medium
+459	United States	40	Stephenson, Lance	SG	2	Cincinnati 	Indiana Pacers	medium
+460	United States	41	Varnado, Jarvis	PF	2	Mississippi State 	Miami Heat (from New Orleans)[n]	medium
+461	United States	42	Butler, Da'SeanDa	SF	2	West Virginia 	Miami Heat (from Toronto)[o]	medium
+462	United States	43	Ebanks, Devin	SF	2	West Virginia 	Los Angeles Lakers (from Memphis)[i]	medium
+463	Jamaica	44	Jordan, Jerome	C	2	Tulsa 	Milwaukee Bucks (from Chicago via Portland and Golden State,[k] traded to New York)[I]	medium
+464	Brazil	45	Prestes, PaulãoPa	C	2	CB Murcia 	Minnesota Timberwolves (from Houston)[p]	medium
+465	Nigeria	46	Lawal, Gani	PF	2	Georgia Tech 	Phoenix Suns (from Charlotte)[q]	medium
+466	United States	47	Gallon, TinyTi	PF	2	Oklahoma 	Milwaukee Bucks	medium
+467	United States	48	Williams, LataviousLa	SF	2	Tulsa 66ers 	Miami Heat (traded to Oklahoma City)[J]	medium
+468	United Kingdom	49	Richards, RyanRy	PF	2	CB Gran Canaria 	San Antonio Spurs	medium
+469	Nigeria	50	Alabi, Solomon	C	2	Florida State 	Dallas Mavericks (from Oklahoma City,[r] traded to Toronto)[K]	medium
+470	Bahamas	51	Rolle, MagnumMa	PF	2	Louisiana Tech 	Oklahoma City Thunder (from Portland via Dallas and Minnesota,[d] traded to Indiana)[L]	medium
+471	United States	52	Harangody, Luke	PF	2	Notre Dame 	Boston Celtics	medium
+472	France	53	Sy, Pape	SF	2	STB Le Havre 	Atlanta Hawks	medium
+473	United States	54	Warren, Willie	PG	2	Oklahoma 	Los Angeles Clippers (from Denver)[m]	medium
+474	United States	55	Evans, Jeremy	PF	2	WKU 	Utah Jazz	medium
+475	Senegal	56	Ndiaye, Hamady	C	2	Rutgers 	Minnesota Timberwolves (from Phoenix,[s] traded to Washington)[E]	medium
+476	United States	57	Reid, Ryan	PF	2	Florida State 	Indiana Pacers (from Dallas,[t] traded to Oklahoma City)[L]	medium
+477	United States	58	Caracter, Derrick	PF	2	UTEP 	Los Angeles Lakers	medium
+478	United States	59	Robinson, StanleySt	SF	2	Connecticut 	Orlando Magic	medium
+479	United States	60	Collins, DwayneDw	PF	2	Miami 	Phoenix Suns (from Cleveland)[u]	medium
+480	United States	1	Griffin, BlakeB	PF	1	Oklahoma 	Los Angeles Clippers	high
+481	Tanzania	2	Thabeet, Hasheem	C	1	Connecticut 	Memphis Grizzlies	medium
+482	United States	3	Harden, James	SG	1	Arizona State 	Oklahoma City Thunder	high
+483	United States	4	Evans, Tyreke	SG	1	Memphis 	Sacramento Kings	medium
+484	Spain	5	Rubio, Ricky	PG	1	DKV Joventut 	Minnesota Timberwolves (from Washington)[a]	medium
+485	United States	6	Flynn, Jonny	PG	1	Syracuse 	Minnesota Timberwolves[b]	medium
+486	United States	7	Curry, Stephen	PG	1	Davidson 	Golden State Warriors	high
+487	United States	8	Hill, Jordan	PF	1	Arizona 	New York Knicks	medium
+488	United States	9	DeRozan, DeMar	SG	1	USC 	Toronto Raptors	high
+489	United States	10	Jennings, Brandon	PG	1	Lottomatica Roma 	Milwaukee Bucks	medium
+490	United States	11	Williams, Terrence	SG	1	Louisville 	New Jersey Nets	medium
+491	United States	12	Henderson, Gerald	SG	1	Duke 	Charlotte Bobcats	medium
+492	United States	13	Hansbrough, Tyler	PF	1	North Carolina 	Indiana Pacers	medium
+493	United States	14	Clark, Earl	SF	1	Louisville 	Phoenix Suns	medium
+494	United States	15	Daye, Austin	SF	1	Gonzaga 	Detroit Pistons	medium
+495	United States	16	Johnson, James	SF	1	Wake Forest 	Chicago Bulls	medium
+496	United States	17	Holiday, Jrue	PG	1	UCLA 	Philadelphia 76ers	medium
+497	United States	18	Lawson, Ty	PG	1	North Carolina 	Minnesota Timberwolves (from Miami,[c] traded to Denver)[A]	medium
+498	United States	19	Teague, Jeff	PG	1	Wake Forest 	Atlanta Hawks	medium
+499	United States	20	Maynor, Eric	PG	1	VCU 	Utah Jazz	medium
+500	United States	21	Collison, Darren	PG	1	UCLA 	New Orleans Hornets	medium
+501	Spain	22	Claver, Víctor	SF	1	Pamesa Valencia 	Portland Trail Blazers (from Dallas)[d]	medium
+502	Israel	23	Casspi, Omri	SF	1	Maccabi Tel Aviv 	Sacramento Kings (from Houston)[e]	medium
+503	United States  United Kingdom	24	Mullens, Byron	C	1	Ohio State 	Dallas Mavericks (from Portland,[d] traded to Oklahoma City)[B]	medium
+504	France	25	Beaubois, Rodrigue	PG	1	Cholet 	Oklahoma City Thunder (from San Antonio,[f] traded to Dallas)[B]	medium
+505	United States	26	Gibson, Taj	PF	1	USC 	Chicago Bulls (from Denver via Oklahoma City)[g]	medium
+506	United States	27	Carroll, DeMarre	SF	1	Missouri 	Memphis Grizzlies (from Orlando)[h]	medium
+507	United States	28	Ellington, Wayne	SG	1	North Carolina 	Minnesota Timberwolves (from Boston)[b]	medium
+508	United States	29	Douglas, Toney	PG	1	Florida State 	Los Angeles Lakers (traded to New York)[C]	medium
+509	DR Congo	30	Eyenga, Christian	SF	1	CB Prat 	Cleveland Cavaliers	medium
+510	United States	31	Pendergraph, Jeff	PF	2	Arizona State 	Sacramento Kings (traded to Portland)[D]	medium
+511	United States	32	Taylor, Jermaine	SG	2	Central Florida 	Washington Wizards (traded to Houston)[E]	medium
+512	United States	33	Cunningham, Dante	PF	2	Villanova 	Portland Trail Blazers (from LA Clippers)[j]	medium
+513	Spain	34	Llull, SergioSe	PG	2	Real Madrid 	Denver Nuggets (from Oklahoma City,[k] traded to Houston)[F]	low
+514	United States	35	Summers, DaJuan	PF	2	Georgetown 	Detroit Pistons (from Minnesota)[l]	medium
+515	United States	36	Young, Sam	SF	2	Pittsburgh 	Memphis Grizzlies[m]	medium
+516	United States	37	Blair, DeJuan	PF	2	Pittsburgh 	San Antonio Spurs (from Golden State via Phoenix)[n]	medium
+517	United States	38	Brockman, Jon	PF	2	Washington 	Portland Trail Blazers (from New York via Chicago,[o] traded to Sacramento)[D]	medium
+518	Sweden	39	Jerebko, Jonas	PF	2	Angelico Biella 	Detroit Pistons (from Toronto)[p]	medium
+519	United States	40	Brown, Derrick	SF	2	Xavier 	Charlotte Bobcats (from New Jersey via Oklahoma City)[q]	medium
+520	United States	41	Meeks, Jodie	SG	2	Kentucky 	Milwaukee Bucks	medium
+521	United States	42	Beverley, PatrickPa	PG	2	Arkansas 	Los Angeles Lakers (from Charlotte,[r] traded to Miami)[G]	medium
+522	United States	43	Thornton, Marcus	SG	2	LSU 	Miami Heat (from Indiana,[s] traded to New Orleans)[H]	medium
+523	United States	44	Budinger, Chase	SF	2	Arizona 	Detroit Pistons (traded to Houston)[I]	medium
+524	Greece  United States	45	Calathes, Nick	PG	2	Florida 	Minnesota Timberwolves (from Philadelphia via Miami,[t] traded to Dallas)[J]	medium
+525	United States	46	Green, Danny	SF	2	North Carolina 	Cleveland Cavaliers (from Chicago)[u]	medium
+526	Netherlands	47	Norel, HenkHe	PF	2	DKV Joventut 	Minnesota Timberwolves (from Miami)[t]	low
+527	United States	48	Griffin, Taylor	SF	2	Oklahoma 	Phoenix Suns	medium
+528	Ukraine	49	Gladyr, SergiySe	SG	2	MBC Mykolaiv 	Atlanta Hawks	low
+529	Bosnia and Herzegovina  United States	50	Suton, GoranGo	C	2	Michigan State 	Utah Jazz	low
+530	United States	51	McClinton, JackJa	SG	2	Miami 	San Antonio Spurs (from New Orleans via Toronto)[v]	low
+531	United States	52	Price, A. J.	PG	2	Connecticut 	Indiana Pacers (from Dallas)[w]	medium
+532	France	53	de Colo, Nando	PG	2	Cholet 	San Antonio Spurs (from Houston)[x]	medium
+533	United States	54	Vaden, RobertRo	SG	2	UAB 	Charlotte Bobcats (from San Antonio,[y] traded to Oklahoma City)[K]	low
+534	Australia	55	Mills, Patty	PG	2	Saint Mary's 	Portland Trail Blazers (from Denver)[o]	medium
+535	United States	56	Nivins, AhmadAh	PF	2	Saint Joseph's 	Dallas Mavericks (from Portland)[d]	low
+536	Slovenia  Turkey	57	Preldžič, EmirEm	PF	2	Fenerbahçe Ülker 	Phoenix Suns (from Orlando via Oklahoma City,[z] traded to Cleveland)[L]	low
+537	United States	58	Hudson, Lester	PG	2	Tennessee-Martin 	Boston Celtics	medium
+538	Nigeria  United States	59	Elonu, ChinemeluCh	PF	2	Texas A&M 	Los Angeles Lakers	low
+539	United States	60	Dozier, RobertRo	SF	2	Memphis 	Miami Heat (from Cleveland)[aa]	low
+540	United States	1	Rose, DerrickD	PG	1	Memphis 	Chicago Bulls	high
+541	United States	2	Beasley, Michael	PF	1	Kansas State 	Miami Heat	medium
+542	United States	3	Mayo, O. J.	SG	1	USC 	Minnesota Timberwolves (traded to Memphis)[a]	medium
+543	United States	4	Westbrook, Russell	PG	1	UCLA 	Seattle SuperSonicsa[›]	high
+544	United States	5	Love, Kevin	PF	1	UCLA 	Memphis Grizzlies (traded to Minnesota)[a]	high
+545	Italy	6	Gallinari, Danilo	SF	1	Olimpia Milano 	New York Knicks	medium
+546	United States	7	Gordon, Eric	SG	1	Indiana 	Los Angeles Clippers	medium
+547	United States	8	Alexander, Joe	SF	1	West Virginia 	Milwaukee Bucks	medium
+548	United States	9	Augustin, D. J.	PG	1	Texas 	Charlotte Bobcats	medium
+549	United States	10	Lopez, Brook	C	1	Stanford 	New Jersey Nets	medium
+550	United States	11	Bayless, Jerryd	PG	1	Arizona 	Indiana Pacers (traded to Portland)[b]	medium
+551	United States	12	Thompson, Jason	PF	1	Rider 	Sacramento Kings	medium
+552	United States	13	Rush, Brandon	SG	1	Kansas 	Portland Trail Blazers (traded to Indiana)[b]	medium
+553	United States	14	Randolph, Anthony	PF	1	LSU 	Golden State Warriors	medium
+554	United States	15	Lopez, Robin	C	1	Stanford 	Phoenix Suns (from Atlanta)[n]	medium
+555	United States	16	Speights, Marreese	PF	1	Florida 	Philadelphia 76ers	medium
+556	United States  Jamaica	17	Hibbert, Roy	C	1	Georgetown 	Toronto Raptors (traded to Indiana)[c]	medium
+557	United States	18	McGee, Javale	C	1	Nevada 	Washington Wizards	medium
+558	United States	19	Hickson, J. J.	PF	1	NC State 	Cleveland Cavaliers	medium
+559	France	20	Ajinça, Alexis	C	1	Hyères-Toulon 	Charlotte Bobcats (from Denver)[o]	medium
+560	United States	21	Anderson, Ryan	PF	1	California 	New Jersey Nets (from Dallas)[p]	medium
+561	United States	22	Lee, Courtney	SG	1	Western Kentucky 	Orlando Magic	medium
+562	Greece  United States	23	Koufos, Kosta	C	1	Ohio State 	Utah Jazz	medium
+563	Republic of the Congo  Spain	24	Ibaka, Serge	PF	1	L'Hospitalet 	Seattle SuperSonicsa[›] (from Phoenix)[q]	medium
+564	France	25	Batum, Nicolas	SF	1	Le Mans 	Houston Rockets (traded to Portland)[d]	medium
+565	United States	26	Hill, George	PG	1	IUPUI 	San Antonio Spurs	medium
+566	United States	27	Arthur, Darrell	PF	1	Kansas 	New Orleans Hornets (traded to Memphis via Portland)[d][e]	medium
+567	United States	28	Greene, Donté	SF	1	Syracuse 	Memphis Grizzlies (from LA Lakers[r], traded to Houston)[d]	medium
+568	United States	29	White, D. J.	PF	1	Indiana 	Detroit Pistons (traded to Seattle)a[›][f]	medium
+569	United States	30	Giddens, J. R.	SG	1	New Mexico 	Boston Celtics	medium
+570	Montenegro	31	Peković, Nikola	C	2	Panathinaikos 	Minnesota Timberwolves (from Miami via Boston)[s]	medium
+571	United States	32	Sharpe, Walter	PF	2	UAB 	Seattle SuperSonicsa[›] (traded to Detroit)[f]	medium
+572	United States	33	Dorsey, Joey	PF	2	Memphis 	Portland Trail Blazers (from Memphis[t], traded to Houston)[d]	medium
+573	United States	34	Chalmers, Mario	PG	2	Kansas 	Minnesota Timberwolves (traded to Miami)[g]	medium
+574	United States	35	Jordan, DeAndre	C	2	Texas A&M 	Los Angeles Clippers	high
+575	Turkey	36	Aşık, Ömer	C	2	Fenerbahçe Ülker 	Portland Trail Blazers (from New York[u], traded to Chicago)[h]	medium
+576	Cameroon	37	Mbah a Moute, Luc	SF	2	UCLA 	Milwaukee Bucks	medium
+577	United States	38	Weaver, Kyle	SG	2	Washington State 	Charlotte Bobcats	medium
+578	United States	39	Weems, Sonny	SG	2	Arkansas 	Chicago Bulls (traded to Denver)[h]	medium
+579	United States	40	Douglas-Roberts, Chris	SG	2	Memphis 	New Jersey Nets	medium
+580	Australia	41	Jawai, Nathan	PF	2	Cairns Taipans 	Indiana Pacers (traded to Toronto)[c]	medium
+581	United States	42	Singletary, Sean	PG	2	Virginia 	Sacramento Kings (from Atlanta)[v]	medium
+582	Jamaica	43	Ewing, Jr., Patrick	SF	2	Georgetown 	Sacramento Kings	medium
+583	Croatia	44	Tomić, Ante	C	2	KK Zagreb 	Utah Jazz (from Philadelphia)[w]	low
+584	Slovenia	45	Dragić, Goran	PG	2	Union Olimpija 	San Antonio Spurs (from Toronto[x], traded to Phoenix)[i]	high
+585	United States	46	Plaisted, Trent	PF	2	BYU 	Seattle SuperSonicsa[›] (from Portland via Boston[y], traded to Detroit)[f]	low
+586	United States	47	Walker, Bill	SG	2	Kansas State 	Washington Wizards (traded to Boston)[j]	medium
+587	United States	48	Hairston, Malik	SG	2	Oregon 	Phoenix Suns (from Cleveland[z], traded to San Antonio)[i]	medium
+588	United States	49	Hendrix, Richard	PF	2	Alabama 	Golden State Warriors	low
+589	United States	50	Hardin, DeVon	C	2	California 	Seattle SuperSonicsa[›] (from Denver)[aa]	low
+590	United States	51	Foster, Shan	SG	2	Vanderbilt 	Dallas Mavericks	low
+591	United States	52	Jackson, Darnell	PF	2	Kansas 	Miami Heat (from Orlando[ab], traded to Cleveland)[k]	medium
+592	Serbia	53	Dragićević, Tadija	PF	2	Red Star Belgrade 	Utah Jazz	low
+593	United States	54	Leunen, Maarty	PF	2	Oregon 	Houston Rockets[ac]	low
+594	United States	55	Taylor, Mike	PG	2	Idaho Stampede 	Portland Trail Blazers (from Phoenix via Indiana[ad], traded to LA Clippers)[l]	medium
+595	Russia	56	Kaun, Sasha	C	2	Kansas 	Seattle SuperSonicsa[›] (from New Orleans via Houston[ae], traded to Cleveland)[m]	medium
+596	United States	57	Gist, James	PF	2	Maryland 	San Antonio Spurs	low
+597	United States	58	Crawford, Joe	SG	2	Kentucky 	Los Angeles Lakers	medium
+598	United States	59	Washington, Deron	SF	2	Virginia Tech 	Detroit Pistons	low
+599	Turkey	60	Erden, Semih	C	2	Fenerbahçe Ülker 	Boston Celtics	medium
